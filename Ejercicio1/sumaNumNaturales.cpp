@@ -1,0 +1,23 @@
+#include <iostream>
+
+using namespace std;
+
+void sumaNaturales(int num);
+
+int main(int argc, char const *argv[])
+{
+    int numero;
+    cout << "Dime un numero: ";
+    cin >> numero;
+    sumaNaturales(numero);
+    return 0;
+}
+
+void sumaNaturales(int num){
+    int sumaTotal = 0;
+    for (int i = 1; i <= num; i++)
+    {
+        sumaTotal += i;
+    }
+    cout << "La suma total de los numeros desde el 1 hasta " << num << " " << "es: " << sumaTotal << endl;
+    }
