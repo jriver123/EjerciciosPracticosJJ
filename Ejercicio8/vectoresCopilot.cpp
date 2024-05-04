@@ -1,4 +1,5 @@
-/*Crea un programa que permita al usuario ingresar dos vectores de la misma longitud y luego calcule su producto punto. Muestra el resultado al finalizar el cálculo.*/
+/*Crea un programa que permita al usuario ingresar dos vectores de la misma longitud y 
+luego calcule su producto punto. Muestra el resultado al finalizar el cálculo.*/
 
 #include <iostream>
 using namespace std;

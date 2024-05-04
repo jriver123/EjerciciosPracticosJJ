@@ -6,11 +6,66 @@
         "${workspaceFolder}/**"
       ],
       "compilerPath": "gcc",
-      "cStandard": "${default}",
-      "cppStandard": "${default}",
       "intelliSenseMode": "windows-gcc-x64",
       "compilerArgs": [
         ""
+      ],
+      "compilerPathInCppPropertiesJson": "gcc",
+      "mergeConfigurations": false,
+      "browse": {
+        "path": [
+          "c:/Users/Erika/Desktop/EjerciciosPracticos/Ejercicio8/**",
+          "${workspaceFolder}"
+        ],
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "cStandard": "${default}",
+      "cppStandard": "${default}"
+    },
+    {
+      "name": "gcc",
+      "includePath": [
+        "${workspaceFolder}/**"
+      ],
+      "defines": [
+        "_DEBUG",
+        "UNICODE",
+        "_UNICODE"
+      ]
+    },
+    {
+      "name": "gcc",
+      "includePath": [
+        "${workspaceFolder}/**"
+      ],
+      "defines": [
+        "_DEBUG",
+        "UNICODE",
+        "_UNICODE"
+      ],
+      "compilerPath": "gcc"
+    },
+    {
+      "name": "gcc",
+      "includePath": [
+        "${workspaceFolder}/**"
+      ],
+      "defines": [
+        "_DEBUG",
+        "UNICODE",
+        "_UNICODE"
+      ],
+      "compilerPath": "gcc"
+    },
+    {
+      "name": "gc",
+      "includePath": [
+        "${workspaceFolder}/**"
+      ],
+      "defines": [
+        "_DEBUG",
+        "UNICODE",
+        "_UNICODE"
       ]
     }
   ],
